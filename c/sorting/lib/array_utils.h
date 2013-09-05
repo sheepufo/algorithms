@@ -13,7 +13,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <limits.h>
 
 
 /* For input and output arrays. */
