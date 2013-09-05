@@ -1,5 +1,5 @@
 from nose.tools import *
-from bin.sort_utils import *
+from lib.sort_utils import *
 
 
 def test_insertion_sort():

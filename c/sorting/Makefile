@@ -1,7 +1,7 @@
 objects = main.o tools.o
 flag = -g -Wall
 cc = clang
-VPATH = libs
+VPATH = lib
 
 test: $(objects)
 	$(cc) $(flag) -o test $(objects)
